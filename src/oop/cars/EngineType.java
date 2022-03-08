@@ -1,0 +1,5 @@
+package oop.cars;
+
+public enum EngineType {
+    PETROL, DIESEL, GAS, ELECTRIC, HYBRID_PETROL_ELECTRIC, HYBRID_GAS_ELECTRIC, UNKNOWN;
+}

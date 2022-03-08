@@ -1,0 +1,119 @@
+#
+Metodiev
+Vladimir
+43
+Chief Executive Officer
+5000.0
+
+#
+Dimitrova
+Anna
+38
+Marketing and Sales Director
+5000.0
+
+#
+Petrov
+Konstantin
+42
+Chief Accountant
+4000.0
+
+#
+Ivanova
+Ralitza
+32
+Jurisconsult
+3000.0
+
+#
+Alexandrova
+Mila
+28
+Sales Representative
+2500.0
+
+#
+Harizanova
+Lora
+26
+Sales Representative
+2500.0
+
+#
+Konstantinov
+Teodor
+29
+Sales Representative
+2500.0
+
+#
+Petrov
+Ivan
+26
+Sales Representative
+2500.0
+
+#
+Barzakov
+Anton
+25
+Office Manager
+1200.0
+
+#
+Pribranov
+Stoian
+37
+Warehouseman
+1650.0
+
+#
+Topuzakov
+Mario
+29
+Driver
+1200.0
+
+#
+Pehlivanov
+Nicola
+24
+Driver
+1200.0
+
+#
+Prodanov
+Teodor
+31
+Driver
+1200.0
+
+#
+Tihomirov
+Peter
+27
+Driver
+1200.0
+
+#
+Draganov
+Dragomir
+22
+System administrator
+3000.0
+
+#
+Goranova
+Emilia
+26
+Sales Representative
+2500.0
+
+#
+Nikolova
+Svetlana
+35
+Sales Representative
+2500.0
+

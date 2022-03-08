@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>oopExercises.asciiCharSequence.AsciiCharSequence</OriginalElement>
+  <nodes>
+    <node x="20.0" y="0.0">java.lang.CharSequence</node>
+    <node x="72.0" y="212.0">oopExercises.asciiCharSequence.AsciiCharSequence</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="java.lang.CharSequence" target="java.lang.CharSequence">
+      <point x="-64.5" y="81.0" />
+      <point x="84.5" y="182.0" />
+      <point x="0.0" y="182.0" />
+      <point x="0.0" y="81.0" />
+      <point x="-129.0" y="-0.0" />
+    </edge>
+    <edge source="oopExercises.asciiCharSequence.AsciiCharSequence" target="java.lang.CharSequence">
+      <point x="0.0" y="-82.0" />
+      <point x="64.5" y="81.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="177.5" y="188.0" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

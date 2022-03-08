@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>oopExercises.forum</OriginalElement>
+  <nodes>
+    <node x="429.5" y="102.0">oopExercises.forum.Identification</node>
+    <node x="390.0" y="422.0">oopExercises.forum.View</node>
+    <node x="49.5" y="0.0">oopExercises.forum.Person</node>
+    <node x="261.0" y="785.0">oopExercises.forum.Status</node>
+    <node x="672.0" y="422.0">oopExercises.forum.Message</node>
+    <node x="386.0" y="785.0">oopExercises.forum.Sex</node>
+    <node x="566.0" y="0.0">oopExercises.forum.SingUp</node>
+    <node x="0.0" y="422.0">oopExercises.forum.Topic</node>
+    <node x="0.0" y="785.0">oopExercises.forum.Main</node>
+    <node x="0.0" y="213.0">oopExercises.forum.User</node>
+    <node x="370.0" y="0.0">oopExercises.forum.LogIn</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="oopExercises.forum.Identification" target="oopExercises.forum.LogIn">
+      <point x="-61.0" y="-114.0" />
+      <point x="490.5" y="77.0" />
+      <point x="458.0" y="77.0" />
+      <point x="0.0" y="26.0" />
+    </edge>
+    <edge source="oopExercises.forum.Identification" target="oopExercises.forum.SingUp">
+      <point x="61.0" y="-114.0" />
+      <point x="612.5" y="77.0" />
+      <point x="645.0" y="77.0" />
+      <point x="0.0" y="26.0" />
+    </edge>
+    <edge source="oopExercises.forum.User" target="oopExercises.forum.Person">
+      <point x="0.0" y="-82.0" />
+      <point x="0.0" y="81.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="335.0" y="589.5" />
+  <SelectedNodes>
+    <node>oopExercises.forum.Identification</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
